@@ -1,0 +1,6 @@
+{
+  "url": "https://YOUR_HOST.documents.azure.com:443/",
+  "key": "YOUR_KEY",
+  "database": "YOUR_DATABASE",
+  "collection": "YOUR_COLLECTION"
+}
